@@ -4,7 +4,7 @@
 
 ### Engenharia Elétrica @ EESC-USP · Sistemas Embarcados & Visão Computacional
 
-Construindo percepção robótica de fronteira em hardware restrito — do processamento clássico de imagem à inferência leve em Edge AI.
+Construindo percepção robótica de fronteira em hardware restrito. Do processamento clássico de imagem à inferência leve em Edge AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-souza-engundergrad)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasal.souza12@gmail.com)
@@ -70,7 +70,7 @@ Trabalho seguindo princípios de engenharia de produção — SRP, contratos de 
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=usp-lucas)]
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=usp-lucas)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=usp-lucas&langs_count=4)
 
 </div>
