@@ -70,8 +70,8 @@ Trabalho seguindo princípios de engenharia de produção — SRP, contratos de 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=usp-lucas&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usp-lucas&layout=compact&hide_border=true)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=usp-lucas)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=usp-lucas&langs_count=4)
 
 </div>
 
